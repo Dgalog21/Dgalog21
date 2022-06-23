@@ -1,3 +1,4 @@
+ -- versão funcional somente com o sub modulo BI Importacao
  with tbl as
 (select
   row_number() over () as id,
